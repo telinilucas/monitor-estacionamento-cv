@@ -6,13 +6,11 @@
 
 Este projeto foi desenvolvido como requisito de avaliação acadêmica, com o objetivo de aplicar técnicas de **Visão Computacional Clássica (Sem Inteligência Artificial)** para resolver um problema cotidiano de infraestrutura. 
 
-A prova de conceito foi estruturada para automatizar o monitoramento e a gestão de disponibilidade de garagens do Motel Veneza, otimizando a logística de entrada e saída através de processamento de imagens em tempo real.
-
 ## 🎥 Demonstração da Aplicação
 
-> **Nota:** Conforme exigido pela rubrica, abaixo estão as demonstrações visuais do sistema em funcionamento.
+> **Nota:** Aaixo estão as demonstrações visuais do sistema em funcionamento.
 
-* [**CLIQUE AQUI PARA ASSISTIR AO VÍDEO DO SISTEMA RODANDO (YouTube)**](COLOQUE_SEU_LINK_DO_YOUTUBE_AQUI)
+* [**CLIQUE AQUI PARA ASSISTIR AO VÍDEO DO SISTEMA RODANDO (YouTube)**](https://youtube.com/shorts/cxMN5HSOZu8)
 
 **Captura de Tela do Sistema:**
 *(Substitua esta linha pela sua imagem. Para adicionar uma imagem no GitHub, basta arrastar a foto para a caixa de edição do README no próprio site do GitHub, ou salvar na pasta e referenciar aqui: `![Demonstração](print_sistema.png)`)*
