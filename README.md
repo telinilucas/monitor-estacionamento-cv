@@ -13,6 +13,8 @@ Este projeto foi desenvolvido como requisito de avaliação acadêmica, com o ob
 * [**CLIQUE AQUI PARA ASSISTIR AO VÍDEO DO SISTEMA RODANDO (YouTube)**](https://youtu.be/fmU6xT8bF4o)
 
 **Captura de Tela do Sistema:**
+<img width="1170" height="631" alt="Captura de tela 2026-04-30 212414" src="https://github.com/user-attachments/assets/78c7a1b2-f38c-4466-960e-63a77327f905" />
+<img width="1544" height="816" alt="Captura de tela 2026-04-30 212318" src="https://github.com/user-attachments/assets/8e6f9c6e-9160-415c-b3cf-241e1aa67db6" />
 
 
 ---
