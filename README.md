@@ -13,7 +13,7 @@ Este projeto foi desenvolvido como requisito de avaliação acadêmica, com o ob
 * [**CLIQUE AQUI PARA ASSISTIR AO VÍDEO DO SISTEMA RODANDO (YouTube)**](https://youtu.be/fmU6xT8bF4o)
 
 **Captura de Tela do Sistema:**
-*(Substitua esta linha pela sua imagem. Para adicionar uma imagem no GitHub, basta arrastar a foto para a caixa de edição do README no próprio site do GitHub, ou salvar na pasta e referenciar aqui: `![Demonstração](print_sistema.png)`)*
+
 
 ---
 
